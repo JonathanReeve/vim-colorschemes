@@ -1,3 +1,6 @@
+#About this Fork
+This is a slimmed down, highly curated fork of Franco's (flazz's) [vim-colorschemes[(https://github.com/flazz/vim-colorschemes) collection. It removes all light themes and themes that I think are ugly. It's very opinionated. 
+
 **me:** Hi everyone, my name is Franco and I'm addicted to colorschemes
 
 **everyone else:** *Hi Franco*
